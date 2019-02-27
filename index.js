@@ -33,9 +33,9 @@ module.exports.handler = (event, context, cb) => {
     }
 
 		if (event && event.method && event.method === 'POST') {
-      if (event.body && event.method.body.config) {
+      if (event.body && event.body.config) {
         let uploadObject = config.store.s3;
-        uploadObject.Body = event.method.body.config;
+        uploadObject.Body = event.body.config;
         s3.upload(uploadObject).promise()
         .then( (result) => {
           return cb(null, responseObj({ message: "Processed message successfully"} , event.body));
