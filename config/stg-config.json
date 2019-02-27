@@ -1,0 +1,8 @@
+{
+  "store": {
+    "s3": {
+      "Bucket": "{yourbucket}",
+      "Key": "{yourobject}"
+    }
+  }
+}

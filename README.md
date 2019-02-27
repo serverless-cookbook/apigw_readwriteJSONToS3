@@ -1,1 +1,1 @@
-# apigw_readwriteJSONToS3
+Sample project that uses AWS API Gateway as its API layer and S3 as its data store to save and retrieve data.

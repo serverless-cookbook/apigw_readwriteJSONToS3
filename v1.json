@@ -1,0 +1,29 @@
+{
+    "config": [ 
+      {
+        "id": 1,
+        "displayName": "Tile 1",
+        "value": "300",
+        "unit": "",
+        "time": "Feb 2019",
+        "detail": "/details?api=https%3A%2F%2Fdev-cloud-api.corporate.t-mobile.com%2Fapi%2F96bfwfgdfc-dev%2Fjazzdashboard%2Fv1%2Fdetails%3Fid%3D1"
+    },
+    {
+      "id": 2,
+      "displayName": "Tile 2",
+      "value": "1127",
+      "unit": "ms",
+      "time": "Feb 2019",
+      "detail": "/details?api=https%3A%2F%2Fdev-cloud-api.corporate.t-mobile.com%2Fapi%2F96bfwfgdfc-dev%2Fjazzdashboard%2Fv1%2Fdetails%3Fid%3D2"
+    },
+    {
+      "id": 3,
+      "displayName": "Tile 3",
+      "value": "32.6",
+      "unit": "million",
+      "time": "Feb 2019",
+      "detail": "/details?api=https%3A%2F%2Fdev-cloud-api.corporate.t-mobile.com%2Fapi%2F96bfwfgdfc-dev%2Fjazzdashboard%2Fv1%2Fdetails%3Fid%3D3"
+    }
+    ]
+}
+  
