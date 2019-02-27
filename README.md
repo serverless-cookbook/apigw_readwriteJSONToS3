@@ -1,0 +1,1 @@
+# apigw_readwriteJSONToS3
